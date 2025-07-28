@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Rp-Lq4lyE0OtvoRWFQgyQg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com" CVScreenId="6959079d-5294-47d4-ac4e-99a48a94b6df" CvElementArea="1296, 691, 222, 55" CvType="InputBox" DesignTimeRectangle="916, 399, 216, 51" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tabindex='62' tag='INPUT' type='input' class='bubble-element Input a1753723685610x3057' aaname='' matching:tabindex='fuzzy' fuzzylevel:tabindex='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="fe6545ff-ad89-4c14-a0df-43e8c72b3a86" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automation Challenge' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6959079d-5294-47d4-ac4e-99a48a94b6df" CvElementArea="1296, 691, 222, 55" CvTextArea="1304, 669, 136, 21" CvTextArgument="Company Name" CvType="InputBox" DesignTimeRectangle="904, 352, 255, 98" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl type='' class='bubble-element Group' tag='DIV' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:text='Company Name' /&gt;" Guid="c644b4c4-bf1a-4004-8b1f-5452f9c7e869" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="571afad337e386465f88fd4e28e88f98.png" xmlns="">0joxVu5I1DkOs-V93ocuksQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
