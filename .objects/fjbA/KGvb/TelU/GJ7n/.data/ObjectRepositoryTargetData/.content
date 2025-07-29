@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="joXWZ_k-K0SXYHh4QcCH0w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com" CVScreenId="3bf1194c-fd10-445a-b7ab-fdbc32c04ab3" CvElementArea="817, 397, 33, 33" CvType="CheckBox" DesignTimeRectangle="818, 397, 31, 31" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='presentation' tag='BUTTON' /&gt;" Guid="85713dba-bd61-4afa-af7b-2afd7a17d350" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAB6SURBVFhH7dgxCsAgEERR738+e4/hrs0Gi4CJDHbuFPNhqgh5pJIUd4/0DQtzi7I9yNhwYkxrLWqt1zffOyEfzP/QzUHMzYRB8WKs82A6E4bqywizJgxKGJQwKGFQwqCEQdFiuC5XToVhupALs3TEZGzDUP2FyNyLeQBegYpKnWyOzAAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automation Challenge' /&gt;" SearchSteps="Selector, Image, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6d6f3c02f554546c9438eacae0abb94e.png" xmlns="">0q3q51ALyPkuhhEAh-vvfiw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

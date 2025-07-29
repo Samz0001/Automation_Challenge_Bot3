@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Type Fallback EIn(1)",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "aj0npReor0K-12A1G2TAPQ",
+  "Reference": "AT_RUpe6NUi2RZENOvfE3w/aj0npReor0K-12A1G2TAPQ",
+  "ParentRef": "AT_RUpe6NUi2RZENOvfE3w/TelUAf4-XU6oH6SYm8zRZQ",
+  "Created": "2025-07-29T16:30:38.6637732Z",
+  "Updated": "2025-07-29T16:30:38.6637732Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

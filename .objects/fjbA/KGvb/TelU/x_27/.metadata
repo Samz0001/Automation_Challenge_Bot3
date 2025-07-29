@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Type into Address Fallback",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "x_27Jui7r0G-J2R1xQaDxA",
+  "Reference": "AT_RUpe6NUi2RZENOvfE3w/x_27Jui7r0G-J2R1xQaDxA",
+  "ParentRef": "AT_RUpe6NUi2RZENOvfE3w/TelUAf4-XU6oH6SYm8zRZQ",
+  "Created": "2025-07-29T17:33:39.2982781Z",
+  "Updated": "2025-07-29T17:33:39.2982781Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

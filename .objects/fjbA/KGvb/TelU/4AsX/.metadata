@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Type into sector fallback",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "4AsXIwS0ykKTPc9dptPrSQ",
+  "Reference": "AT_RUpe6NUi2RZENOvfE3w/4AsXIwS0ykKTPc9dptPrSQ",
+  "ParentRef": "AT_RUpe6NUi2RZENOvfE3w/TelUAf4-XU6oH6SYm8zRZQ",
+  "Created": "2025-07-29T15:58:20.7121642Z",
+  "Updated": "2025-07-29T15:58:20.7121642Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

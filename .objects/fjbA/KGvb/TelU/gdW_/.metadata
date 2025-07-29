@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Type Into EIN",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "gdW_ve_E0UG7i3LZmv_axw",
+  "Reference": "AT_RUpe6NUi2RZENOvfE3w/gdW_ve_E0UG7i3LZmv_axw",
+  "ParentRef": "AT_RUpe6NUi2RZENOvfE3w/TelUAf4-XU6oH6SYm8zRZQ",
+  "Created": "2025-07-29T13:45:57.6635379Z",
+  "Updated": "2025-07-29T13:45:57.6635379Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
